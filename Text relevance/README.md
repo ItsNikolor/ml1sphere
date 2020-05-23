@@ -5,3 +5,5 @@
 # score = 0.722  (private)
 
 # BM25F + Passage (using BERT) + DESM
+
+# Main code in Final, but it will take really long time to compute
